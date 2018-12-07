@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GMTA</string>
+    <string name="imgContentDecp">GM</string>
+    <string name="dDevs">Perfect Chico, Gamer Mama</string>
+    <string name="askAccount">Don\'t have an Account?</string>
+    <string name="loginBtn">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="emailID">Email</string>
+    <string name="haveAccount">Already have an Account?</string>
+</resources>
